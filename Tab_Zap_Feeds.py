@@ -46,7 +46,6 @@ if __name__ == '__main__':
 
 #writer = pd.ExcelWriter('RSS.xlsx', engine='xlsxwriter')
 #df.to_excel(writer, sheet_name='Sheet1')
-#df_2.to_excel(writer, sheet_name='Sheet1')
 #writer.save()
 
 
